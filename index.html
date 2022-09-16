@@ -15,29 +15,32 @@
 
     <div class="container">
 
-        <h2>&lt; RSA PcGamer Login &gt;</h2>
+        <h2>&lt; RSA PCGamer &gt; <br> <span class="span">Login</span></h2>
 
-        <form action="/login.php" method="post" autocomplete="on">
+        <form action="login.php" method="post" autocomplete="on">
 
             <div class="email">
-                <label for="imail">Email</label>
-                <input type="email" name="mail" id="imail" placeholder="Digite seu Email" maxlength="30" required autocomplete="on">
+                <label for="imail">E-mail</label>
+                <input class="input" type="email" name="mail" id="imail" placeholder="Digite seu Email" maxlength="30" required autocomplete="on">
             </div>
-
+          
             <div class="pass">
                 <label for="ipass">Senha</label>
-                <input type="password" name="pass" id="ipass" autocomplete="on" required placeholder="Digite sua Senha" minlength="8">
+                <input class="input" type="password" name="pass" id="ipass" autocomplete="on" required placeholder="Digite sua Senha" minlength="8">
             </div>
 
+                                     <br>
+
             <div class="botoes">
-                <input type="submit" value="Entrar">
-                <input type="reset" value="Limpar">
+                <input class="entrar" type="submit" value="Entrar">
             </div>
 
             <div class="cadastro">
-                Não tem cadastro? <a href="#">Cadastre-se</a>
+                <span class="edit">Não tem cadastro?</span> <a href="#">Cadastre-se</a>
             </div>
+
         </form>
+
     </div>
     
 </body>
