@@ -1,6 +1,8 @@
 @charset "UTF-8";
 
+
 .container {
 
-    width: 40%;
+    width: 350px;
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0.459), rgba(255, 255, 0, 0.425));
 }
