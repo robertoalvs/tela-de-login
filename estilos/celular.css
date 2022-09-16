@@ -3,6 +3,7 @@
 
 .container {
 
-    width: 350px;
+    width: 330px;
     background-image: linear-gradient(to right, rgba(255, 0, 0, 0.459), rgba(255, 255, 0, 0.425));
+    border-radius: 10px;
 }
