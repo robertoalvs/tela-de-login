@@ -24,7 +24,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 450px;
-    background-image: linear-gradient(to left, rgba(0, 0, 255, 0.5), rgba(89, 47, 94, 0.521));
+    background-image: linear-gradient(to right, rgba(0, 0, 255, 0.699), rgba(204, 212, 87, 0.616));
     border-radius: 70px 0 70px 0;
     padding: 40px 60px 40px 60px;
     margin: auto;
