@@ -5,7 +5,7 @@
 
     width: 280px;
     height: 450px;
-    background-image: linear-gradient(to right, rgba(255, 255, 0, 0.74), rgba(255, 0, 0, 0.212));
+    background-image: linear-gradient(to top, rgb(104, 204, 171), rgb(97, 103, 219));
     border-radius: 10px;
 }
 
