@@ -4,7 +4,7 @@
 .container {
 
     width: 347px;
-    background-image: linear-gradient(to right, rgba(255, 255, 0, 0.74), rgba(255, 0, 0, 0.212));
+    background-image: linear-gradient(to right, rgba(0, 255, 179, 0.2), rgba(0, 225, 255, 0.212));
     border-radius: 10px;
 }
 
