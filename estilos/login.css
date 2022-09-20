@@ -14,7 +14,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: #172031;
+    background-image: linear-gradient(to bottom, #E3D8F2, #CEBDF2, #91B2F2, #BBCDF2, #8DB9F2);
 }
 
 .container {
@@ -24,7 +24,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%); */
     width: 400px;
-    background-image: linear-gradient(to right, rgba(0, 0, 255, 0.699), rgba(204, 212, 87, 0.616));
+    background-color: #BBCDF2;
     border-radius: 70px 0 70px 0;
     padding: 40px 60px 40px 60px;
     
