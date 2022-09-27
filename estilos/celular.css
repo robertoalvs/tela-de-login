@@ -1,14 +1,13 @@
 @charset "UTF-8";
 
 body {
-
-    background-color: #91B2F2;
+   background-image: linear-gradient(to bottom, #E3D8F2, #CEBDF2, #91B2F2, #BBCDF2, #8DB9F2);
 }
 
 .container {
 
     width: 347px;
-    background-image: linear-gradient(to bottom, #CEBDF2, #BBCDF2, #8DB9F2);
+    background-image: linear-gradient(to left, #CEBDF2, #BBCDF2, #8DB9F2);
     border-radius: 10px;
 }
 

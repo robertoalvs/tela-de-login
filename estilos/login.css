@@ -14,7 +14,8 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-image: linear-gradient(to bottom, #E3D8F2, #CEBDF2, #91B2F2, #BBCDF2, #8DB9F2);
+   /* background-image: linear-gradient(to bottom, #E3D8F2, #CEBDF2, #91B2F2, #BBCDF2, #8DB9F2); */
+   background-image: url(../bela-praia-tropical-mar-oceano-com-nuvem-branca-azul-ceu-e-copyspace_74190-8663.jpg);
 }
 
 .container {
