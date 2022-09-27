@@ -9,6 +9,7 @@ body {
     width: 347px;
     background-image: linear-gradient(to left, #CEBDF2, #BBCDF2, #8DB9F2);
     border-radius: 10px;
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.391);
 }
 
 h2 {
