@@ -1,5 +1,12 @@
 @charset "UTF-8";
 
+body {
+
+    background-image: url(../BackgroundLogin.jpg);
+
+}
+
+
 .container {
     
     width: 280px;
